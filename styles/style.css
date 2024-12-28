@@ -120,10 +120,10 @@
 .cover__description {
   z-index: 2;
   display: flex;
-  justify-content: space-between; 
+  justify-content: space-between;
   align-items: center;
   width: 100%;
-  padding: 106px 50px 50px; 
+  padding: 106px 50px 50px;
   color: white;
   font-family: "Raleway", sans-serif;
   font-size: 22px;
