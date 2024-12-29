@@ -98,18 +98,14 @@
 }
 
 .aligned-text_left {
-  margin-right: auto;
   text-align: left;
 }
 
 .aligned-text_center {
-  margin-right: auto;
-  margin-left: auto;
   text-align: center;
 }
 
 .aligned-text_right {
-  margin-left: auto;
   text-align: right;
 }
 
